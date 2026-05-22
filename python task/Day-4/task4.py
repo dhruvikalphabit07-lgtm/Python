@@ -20,8 +20,10 @@ print(test_dtr_lst1)
 # print(test_dtr_lst[6])
 # print(test_dtr_lst[7])
 
-st = test_dtr_lst2[8]
-st += test_dtr_lst2[9]
+# st = test_dtr_lst2[8]
+# st += test_dtr_lst2[9]
+
+st = test_dtr_lst2[8]+test_dtr_lst2[9]
 # st = st.join("")
 
 print(st)
